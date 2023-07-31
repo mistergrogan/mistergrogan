@@ -6,10 +6,14 @@ Junior Software Developer
 
 Welcome to my GitHub! A former skilled-technician in electronics manufacturing for the defence industry now pursuing a career in Full Stack Software Development. I have now completed a 16-week bootcamp course with the School of Code, where I learnt and advanced my skills in numerous technologies to create both front-end & full-stack applications.
 
-*   🌍  I'm based in Farnham, Surrey
-*   ✉️  You can contact me at [thomasmgrogan1@gmail.com](mailto:thomasmgrogan1@gmail.com)
-*   🧠  I'm learning Advanced React & Typescript
-*   🤝  I'm open to collaborating on front-end/UI/UX projects### Skills 
+* 🌍  I'm based in Farnham, Surrey
+* ✉️  You can contact me at [thomasmgrogan1@gmail.com](mailto:thomasmgrogan1@gmail.com)
+* 🧠  I'm learning Advanced React & Typescript
+* 🤝  I'm open to collaborating on front-end/UI/UX projects
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -26,13 +30,14 @@ Welcome to my GitHub! A former skilled-technician in electronics manufacturing f
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/mistergrogan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/tom-grogan-7541a3275/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/mistergrogan"><img src="https://github-readme-stats.vercel.app/api?username=mistergrogan&show_icons=true&hide=stars,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="mistergrogan's GitHub stats" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/mistergrogan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tom-grogan-7541a3275/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/mistergrogan"><img src="https://github-readme-stats.vercel.app/api?username=mistergrogan&show_icons=true&hide=stars,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="mistergrogan's GitHub stats" /></a>
