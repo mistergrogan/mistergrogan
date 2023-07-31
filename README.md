@@ -1,4 +1,4 @@
-Hi 👋 My name is Tom Grogan
+Hi 👋 I'm Tom
 ===========================
 
 Junior Software Developer
