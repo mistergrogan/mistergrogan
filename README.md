@@ -8,7 +8,7 @@ Welcome to my GitHub! A former skilled-technician in electronics manufacturing f
 
 * 🌍  I'm based in Farnham, Surrey
 * ✉️  You can contact me at [thomasmgrogan1@gmail.com](mailto:thomasmgrogan1@gmail.com)
-* 🧠  I'm learning Advanced React & Typescript
+* 🧠  I'm learning React & Typescript
 * 🤝  I'm open to collaborating on front-end/UI/UX projects
 
 ### Skills
